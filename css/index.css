@@ -1,18 +1,26 @@
 body {
     font-family: "Roboto";
-}
 
-.nav {
-    list-style-type: none;
-    display: inline;
-}
-
-.info {
-    font-family: "Mulish";
 }
 
 .top-section {
     background-color: #3F8161;
+    color: #F2F1E5;
+    margin-top: 0px;
+}
+
+.greeting {
+    font-size: 64px;
+    margin: 20px;
+}
+
+.navbar {
+    
+}
+
+.info {
+    font-family: "Mulish";
+    font-size: 30px;
 }
 
 .banks {
