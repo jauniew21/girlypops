@@ -2,10 +2,19 @@ body {
     font-family: "Roboto";
 }
 
-nav {
-    flex
+.nav {
+    list-style-type: none;
+    display: inline;
 }
 
 .info {
     font-family: "Mulish";
+}
+
+.top-section {
+    background-color: #3F8161;
+}
+
+.banks {
+    background-color: #F2F1E5;
 }
